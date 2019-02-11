@@ -1,0 +1,2 @@
+cam = webcam;
+clear(cam);
